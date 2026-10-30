@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Pornhub Email Checker API — curl + jq example. Docs: https://docs.numberchecker.ai/pornhub-checker
+# Pornhub Email Checker API — curl + jq example. Docs: See this repository README and openapi.yaml (hosted product guide unavailable)
 set -euo pipefail
 
 BASE_URL="https://api.numberchecker.ai"

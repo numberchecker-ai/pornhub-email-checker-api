@@ -1,4 +1,4 @@
-// Pornhub Email Checker API — .NET 6+ example. Docs: https://docs.numberchecker.ai/pornhub-checker
+// Pornhub Email Checker API — .NET 6+ example. Docs: See this repository README and openapi.yaml (hosted product guide unavailable)
 using System;
 using System.IO;
 using System.Net.Http;

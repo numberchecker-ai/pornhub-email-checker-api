@@ -1,4 +1,4 @@
-// Pornhub Email Checker API — Go example. Docs: https://docs.numberchecker.ai/pornhub-checker
+// Pornhub Email Checker API — Go example. Docs: See this repository README and openapi.yaml (hosted product guide unavailable)
 package main
 
 import (

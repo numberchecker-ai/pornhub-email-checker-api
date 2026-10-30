@@ -1,4 +1,4 @@
-// Pornhub Email Checker API — Node.js 18+ example. Docs: https://docs.numberchecker.ai/pornhub-checker
+// Pornhub Email Checker API — Node.js 18+ example. Docs: See this repository README and openapi.yaml (hosted product guide unavailable)
 import fs from "node:fs";
 import { setTimeout as sleep } from "node:timers/promises";
 
